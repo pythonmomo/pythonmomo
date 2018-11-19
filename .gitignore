@@ -1,0 +1,8 @@
+# IDE FILES
+/.vscode
+
+# VIRTUAL ENVIRONMENTS
+ENV/*
+venv/*
+env/*
+pyenv/*

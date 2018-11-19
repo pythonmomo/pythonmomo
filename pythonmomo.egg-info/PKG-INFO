@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: pythonmomo
+Version: 0.0.1
+Summary: A simple to use python wrapper to integrate the MTN Uganda API into your projects.
+Home-page: https://github.com/pythonmomo/pythonmomo
+Author: Abulo John Joshua, Allan Guwatudde
+Author-email: john.abulo@andela.com, allan.guwatudde@andela.com
+License: UNKNOWN
+Description: # pythonmomo
+        A simple to use python wrapper to integrate the MTN Uganda API into your projects.
+        
+        # Getting started
+        
+        ### Authors
+        - [Abulo John Joshua](https://github.com/abulojoshua1)
+        - [Allan Guwatudde](https://github.com/AGMETEOR)
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
