@@ -1,0 +1,13 @@
+language: python
+python:
+  - "3.5.3"
+
+install: 
+  - pip3 install coverage
+  - pip3 install nose
+
+script: 
+  - nosetests --with-coverage
+
+after_success:
+  - coveralls
