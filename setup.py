@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Abulo John Joshua, Allan Guwatudde",
     author_email="john.abulo@andela.com, allan.guwatudde@andela.com",
-    description="A simple to use python wrapper to integrate the MTN Uganda API into your projects.",
+    description="A simple to use python wrapper to integrate the MTN Uganda MoMoPay API into your projects.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/pythonmomo/pythonmomo",
