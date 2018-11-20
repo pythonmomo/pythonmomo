@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="pythonmomo",
     version="0.0.1",
-    author="Abulo John Joshua, Allan Guwatudde",
+    author="Abulo John Joshua, Allan Guwatudde, Sserubiri william",
     author_email="john.abulo@andela.com, allan.guwatudde@andela.com",
     description="A simple to use python wrapper to integrate the MTN Uganda MoMoPay API into your projects.",
     long_description=long_description,
