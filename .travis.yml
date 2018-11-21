@@ -7,9 +7,11 @@ install:
   - pip3 install python-coveralls
   - pip3 install coverage
   - pip3 install nose
+  - pip3 install codeclimate-test-reporter
+
+env:
+  - CODECLIMATE_REPO_TOKEN=70488c0e1bea75252c33d5ca4e6cd6e94611378b1d5c7b1ec42175e6278bab5e
 
 script: 
   - nosetests --with-coverage
-
-after_success:
-  - coveralls
+  - codeclimate-test-reporter --file .coverage
