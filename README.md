@@ -3,7 +3,7 @@ A simple to use python wrapper to integrate the MTN Uganda MoMoPay API into your
 
 [![Build Status](https://travis-ci.org/pythonmomo/pythonmomo.svg?branch=master)](https://travis-ci.org/pythonmomo/pythonmomo)
 
-[![Coverage Status](https://coveralls.io/repos/github/pythonmomo/pythonmomo/badge.svg?branch=master)](https://coveralls.io/github/pythonmomo/pythonmomo?branch=master)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/fa8a15f4452dfea0e443/test_coverage)](https://codeclimate.com/github/pythonmomo/pythonmomo/test_coverage)
 
 # Getting started
 
